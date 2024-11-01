@@ -1,0 +1,4 @@
+# Requirements for Log Analyzer
+websocket-client
+requests
+llama-index
