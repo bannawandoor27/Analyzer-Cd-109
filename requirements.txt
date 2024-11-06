@@ -3,3 +3,6 @@ pymongo
 llama_index
 requests
 websocket-client
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-llms-openai
