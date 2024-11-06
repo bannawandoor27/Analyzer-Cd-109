@@ -1,7 +1,5 @@
-# Requirements for Log Analyzer
-websocket-client
+pika
+pymongo
+llama_index
 requests
-llama-index
-ollama
-llama-index-llms-ollama
-llama-index-vector-stores-faiss
+websocket-client
