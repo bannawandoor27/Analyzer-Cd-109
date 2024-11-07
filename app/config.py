@@ -15,7 +15,6 @@ class OpenAIModels(Enum):
 class OllamaModels(Enum):
     """Enum for Ollama-specific models."""
     LLAMA_3_2 = "llama3.2:latest"
-    LLAMA_3_1B = "llama3.2:1b"
     # Add other Ollama models here as needed
 
 class AnthropicModels(Enum):

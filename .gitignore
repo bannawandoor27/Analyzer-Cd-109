@@ -145,6 +145,7 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+vector_store_index.pkl
 # Pyre type checker
 .pyre/
 
